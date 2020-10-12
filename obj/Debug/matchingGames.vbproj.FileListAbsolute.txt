@@ -1,0 +1,12 @@
+D:\proyectosVB\matchingGames\bin\Debug\matchingGames.exe.config
+D:\proyectosVB\matchingGames\bin\Debug\matchingGames.exe
+D:\proyectosVB\matchingGames\bin\Debug\matchingGames.pdb
+D:\proyectosVB\matchingGames\bin\Debug\matchingGames.xml
+D:\proyectosVB\matchingGames\obj\Debug\matchingGames.vbprojAssemblyReference.cache
+D:\proyectosVB\matchingGames\obj\Debug\matchingGames.Form1.resources
+D:\proyectosVB\matchingGames\obj\Debug\matchingGames.Resources.resources
+D:\proyectosVB\matchingGames\obj\Debug\matchingGames.vbproj.GenerateResource.cache
+D:\proyectosVB\matchingGames\obj\Debug\matchingGames.vbproj.CoreCompileInputs.cache
+D:\proyectosVB\matchingGames\obj\Debug\matchingGames.exe
+D:\proyectosVB\matchingGames\obj\Debug\matchingGames.xml
+D:\proyectosVB\matchingGames\obj\Debug\matchingGames.pdb
